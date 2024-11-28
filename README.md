@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agung Nugroho</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel & Flutter**
 
 - 👯 I’m looking to collaborate on [Information System Malang State Polytechnic Customer Satisfaction Survey](https://github.com/Dann789/surveyku-polinema)
 
