@@ -11,7 +11,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img alt="Agung's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ag-nugroho&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img alt="Agung's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ag-nugroho&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
