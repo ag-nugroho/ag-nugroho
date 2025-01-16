@@ -68,7 +68,3 @@ I am a student at **Politeknik Negeri Malang**, focusing on software development
 👥 **Followers:** 8  
 👤 **Following:** 12  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ag-nugroho&show_icons=true&theme=radical)
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/agung-nugroho-a0bb08251/","instagram":"https://www.instagram.com/agungnugrho_"}
