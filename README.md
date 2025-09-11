@@ -1,50 +1,73 @@
-# 👋 Hi, I'm ag-nugroho!
+<div align="center">
 
-**Full Stack Developer (Web & Mobile)**  
-Turning ideas into impactful digital experiences.
+# ✨ Agung Nugroho ✨
 
----
+<p><em>Software developer passionate about creating amazing applications</em></p>
 
-## 🚀 About Me
-- 💻 Passionate about building scalable web and mobile applications.
-- 🛠 Skilled in **PHP**, **JavaScript**, **Dart**, **Flutter**, **Laravel**, **React**, **Next.js**.
-- 🎨 UI/UX enthusiast, working with **Shadcn**, **AdminLte**, **Admin Frest**, and **Fillament**.
-- 🌱 Always learning, always coding.
+<hr>
 
----
+</div>
 
-## 🌟 Favorite Project
+## 👀 Visitor Count
 
-### [SiPasti](#)
-_SiPasti_ is my standout project—designed to streamline workflows and maximize productivity.  
-*Curious to learn more? Ask me about it or check out the repo!*
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
 
----
+## 🏆 GitHub Trophies
 
-## 🧰 Tech Stack
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=flat&column=7&margin-w=15&margin-h=15" />
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+## 📊 GitHub Stats
 
----
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</div>
 
-## 📈 Motto
+## 🔝 Most Used Languages
 
-> **Time its Knowledge**
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=buefy"/>
+</div>
 
----
+## 🔥 Contribution Streak
 
-<!--
-## 🌐 Connect with Me
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=buefy&hide_border=false" />
+</div>
 
-[LinkedIn](#) | [Twitter](#) | [Portfolio](#)
--->
+## 💻 Tech Stack
 
----
+<div align="center">
 
-_Thanks for stopping by! Feel free to check out my projects, star your favorites, or connect._
+**🎨 Frontend**
+
+`React` • `Material UI` • `CSS3` • `Tailwind` • `HTML5` • `Bootstrap` • `Next.js`
+
+**⚙️ Backend**
+
+`Laravel` • `MySQL` • `Node.js`
+
+**📱 Mobile**
+
+`Flutter` • `React Native` • `Android`
+
+**💬 Languages**
+
+`JavaScript` • `TypeScript` • `Java` • `PHP`
+
+</div>
+
+<div align="center">
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
+</div>
