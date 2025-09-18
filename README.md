@@ -49,15 +49,6 @@ const agung = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ag-nugroho&theme=algolia&hide_border=true" />
 </div>
 
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Laravel Frest Template](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antakreatif&repo=laravel-frest-template&theme=algolia&hide_border=true)](https://github.com/antakreatif/laravel-frest-template)
-[![Point Badges Learning System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ag-nugroho&repo=poin-badges-learning-system&theme=algolia&hide_border=true)](https://github.com/ag-nugroho/poin-badges-learning-system)
-
-</div>
-
 ## 💻 Tech Stack & Tools
 
 <div align="center">
@@ -86,12 +77,6 @@ const agung = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ag-nugroho&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 ## 🤝 Let's Connect!
