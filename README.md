@@ -36,6 +36,12 @@ const agung = {
   <img src="https://github-profile-trophy.vercel.app/?username=ag-nugroho&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ag-nugroho&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ag-nugroho&theme=midnight-purple&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ag-nugroho&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
