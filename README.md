@@ -73,9 +73,6 @@ More at **[ag-nugroho.my.id](https://ag-nugroho.my.id)** 🚀
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ag-nugroho&show_icons=true&theme=transparent&title_color=8b5cf6&icon_color=8b5cf6&text_color=8b949e&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ag-nugroho&layout=compact&theme=transparent&title_color=8b5cf6&text_color=8b949e&hide_border=true" alt="Top languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ag-nugroho&theme=transparent&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e&hide_border=true" alt="GitHub streak" />
 
 </div>
