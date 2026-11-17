@@ -32,7 +32,7 @@ const agung = {
   location: "Indonesia 🇮🇩",
   currentFocus: ["Laravel Development", "Next.js Apps", "Go Backend", "Big Data Analytics"],
   currentlyLearning: "Advanced Big Data Processing & Machine Learning",
-  funFact: "I love building educational systems that gamify learning 🎮",
+  funFact: "I love agriculture 🌱 and I'm always looking for ways to bring tech into the field",
 };
 ```
 
